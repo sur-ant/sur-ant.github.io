@@ -1,0 +1,139 @@
+body{
+	background-image: url(./image/omfg.png);
+    background-size: 100%;
+}
+#Antonsite{
+	width: 840px;
+	//height: 1020px;
+	outline: 2px inset #000000;
+	background-color: #e9eef5;
+	margin: 0 auto;
+
+}
+
+a {text-align: center;
+ 	color: #FF0000;
+ 	text-decoration: none;}
+
+ 	#Antoshka{
+ 		width: 870px;
+ 		height: 100px;
+ 		margin-bottom: 10px;
+ 	}
+ul{
+	width: 180px;
+	list-style: none;
+	font-family: Arial;
+	font-size: 18px;
+	border: 0px solid #ccc;
+}
+
+li a{ 
+padding: 9px;
+text-decoration: none;
+color: #666;
+background-color: #f0f0f0; 
+display: block; 
+border: 1px solid #ccc;}
+
+li a:hover {
+	color: #ffe;
+	background-color: #5488af;
+}
+
+li ul {
+	display: none;
+	position: absolute;
+}
+
+li:hover ul {
+	display: block;
+	margin-top: -25px;
+	margin-left: 100px;
+}
+ ul{
+	width: 180px;
+	list-style: none;
+	font-family: Arial;
+	font-size: 15px;
+}
+
+li a{ 
+padding: 9px;
+text-decoration: none;
+color: #666;
+background-color: #f0f0f0; 
+display: block; }
+
+li a:hover {
+	color: #ffe;
+	background-color: #5488af;
+}
+
+li ul {
+	display: none;
+	position: absolute;
+}
+
+li:hover ul {
+	display: block;
+	margin-top: -25px;
+	margin-left: 100px;
+}
+#Banton {
+	font-family: fantasy;
+	font-weight: bold;
+	font-size: 23px;
+	letter-spacing: 2px;
+	padding: 0px 0px 0px 45px;
+}
+
+#Anton{
+	padding: 0px 0px 0px 35px;
+	font-family: monospace;
+	letter-spacing: 2px;
+	font-size: 23px;
+}
+
+#Antonovi4 {
+	background-color: #002568;
+	width: 180px;
+	height: 1003px;
+	padding: 50px 10px 10px 10px;
+	color: #fff;
+	margin: 1 auto;
+	font-size: 20px;
+	margin-bottom: 10px;
+	position: absolute;
+	left: 10px;
+	top: 6px;
+	line-height: 200%;
+}
+
+#Antong{
+	background-color: #002568;
+	width: 180px;
+	height: 1003px;
+	padding: 50px 10px 10px 10px;
+	color: #ff0;
+	margin: 1 auto;
+	font-size: 20px;
+	margin-bottom: 10px;
+	position: absolute;
+	right: 10px;
+	top: 6px;
+	line-height: 200%;
+}
+
+#man {
+	display: inline-block;
+}
+#man:hover {
+	width: 500px;
+	height: 500px;
+}
+
+#list {
+	display: inline-block;
+}
+
